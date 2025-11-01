@@ -1,6 +1,6 @@
 # Daniel Bryars
 
-Welcome to my GitHub profile! This is a special repository that showcases who I am and what I'm working on.
+Welcome to my GitHub profile.
 
 ## About Me
 
