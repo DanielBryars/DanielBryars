@@ -1,16 +1,43 @@
-## Hi there 👋
+# Daniel Bryars
 
-<!--
-**DanielBryars/DanielBryars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This is a special repository that showcases who I am and what I'm working on.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer and technology enthusiast with interests spanning across:
+
+- **Machine Learning & AI**: Working with MLX, reinforcement learning, computer vision, and natural language processing
+- **Robotics**: TurtleBot navigation and control systems
+- **Home Automation**: Smart home configurations and integrations
+- **.NET Development**: Building services and applications with modern .NET
+- **IoT & Hardware**: Raspberry Pi projects, sensor networks, and automation
+
+## Current Focus
+
+- Exploring cutting-edge ML frameworks (MLX for Apple Silicon)
+- Reinforcement Learning algorithms and applications
+- Computer vision with YOLO and visual transformers
+- Building intelligent home automation systems
+- Experimenting with LeRobot and robotics applications
+
+## Technologies & Tools
+
+**Languages**: Python, C#, JavaScript, SQL, SPARQL
+
+**ML/AI**: PyTorch, MLX, TensorFlow, scikit-learn, Hugging Face
+
+**Robotics**: ROS, TurtleBot, LeRobot
+
+**Home Automation**: Home Assistant, MQTT, Node-RED
+
+**Cloud & DevOps**: Docker, Git, CI/CD
+
+**Other**: FastAPI, Twilio, RabbitMQ, RDF/Ontologies
+
+## Projects
+
+You'll find a diverse range of projects in my repositories, from machine learning experiments to home automation configurations, from .NET services to robotics control systems. Feel free to explore and reach out if anything interests you!
+
+## Get in Touch
+
+Always happy to connect with fellow developers and enthusiasts. Check out my repositories to see what I'm building!
